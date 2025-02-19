@@ -18,7 +18,7 @@ Rustの自習記録用
 - [x] Chapter14
 - [x] Chapter15
 - [x] Chapter16
-- [ ] Chapter17
+- [x] Chapter17
 - [ ] Chapter18
 - [ ] Chapter19
 - [ ] Chapter20
